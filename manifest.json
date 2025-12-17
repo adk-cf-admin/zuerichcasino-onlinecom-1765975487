@@ -1,0 +1,19 @@
+{
+  "name": "Casino Zürich",
+  "short_name": "Casino Zürich",
+  "theme_color": "",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765970811-favicon-9.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
